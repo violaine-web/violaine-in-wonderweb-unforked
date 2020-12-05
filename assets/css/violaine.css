@@ -1,0 +1,26 @@
+.navbar {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.blog-post hr {
+    max-width: 25%;
+    border-width: 0.25rem;
+    border-radius: 0.1875rem;
+    border-color: #568203;
+}
+
+.small {
+    color: #568203;
+}
+
+.intro {
+    color:#568203;
+    font-size: 1.3rem;
+    line-height: 1.1;
+    display: block;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    margin: 0.625rem 0 0;
+    margin-bottom: 3rem;
+}
